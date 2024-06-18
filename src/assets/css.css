@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+      
+ 
+        
+   
+
+.container-fluid-login {
+    background: url('/src/image/c62708913c1729c6f5d3d5da72e21517.jpg');
+    background-repeat: no-repeat; 
+    background-color:antiquewhite;
+    min-height: 100%; /* Ensure the container covers the full height of the viewport */
+   
+  
+}
+
+
+.bg {
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+
+
+.typo{
+    color: black;
+}
+
+.container-fluid {
+ 
+    background-repeat: no-repeat; 
+    background-color:antiquewhite;
+    min-height: 100%; /* Ensure the container covers the full height of the viewport */
+   
+  
+}
